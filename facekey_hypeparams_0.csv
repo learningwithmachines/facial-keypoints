@@ -1,0 +1,1 @@
+round_epochs,val_loss,val_mean_squared_error,val_acc,loss,mean_squared_error,acc,dropout,optimizer

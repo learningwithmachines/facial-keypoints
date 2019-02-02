@@ -1,0 +1,2268 @@
+,
+
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187522882,
+        "pid": 0,
+        "tid": 13709120782780355852
+    }
+,
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187522884,
+        "pid": 0,
+        "tid": 13709120782780355852
+    }
+,
+
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540943,
+        "pid": 0,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540949,
+        "pid": 0,
+        "tid": 18233402404053871355
+    }
+,
+
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540895,
+        "pid": 0,
+        "tid": 13709120782780355852
+    }
+,
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540900,
+        "pid": 0,
+        "tid": 13709120782780355852
+    }
+,
+
+    {
+        "name": "[Reshape]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187523845,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187523973,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187523980,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187524480,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187524486,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187524758,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187524765,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187525124,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187525131,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187525515,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187525519,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187525708,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187525713,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187526735,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187526741,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187527111,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187527115,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187527504,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187527510,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187528137,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187528142,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187528487,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187528491,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187529807,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187529811,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187530522,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187530528,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187531135,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187531140,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187532367,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187532372,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187532999,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187533003,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187535564,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187535569,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187535993,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187535997,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187536861,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187536865,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187537652,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187537657,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187537913,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187537917,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187538850,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187538853,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187539043,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187539047,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187539434,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187539438,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187539632,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187539636,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187539801,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187539804,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187539991,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[BatchNorm,mean]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187539995,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm,mean]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540267,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540271,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540379,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[broadcast_add,LeakyReLU,Dropout]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540382,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[broadcast_add,LeakyReLU,Dropout]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540497,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540501,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540595,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "[broadcast_add]",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540599,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[broadcast_add]",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540683,
+        "pid": 8,
+        "tid": 5966053656255558671
+    }
+,
+
+    {
+        "name": "SyncCopyGPU2CPU",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187540725,
+        "pid": 8,
+        "tid": 5307030332435976989
+    }
+,
+    {
+        "name": "SyncCopyGPU2CPU",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187540849,
+        "pid": 8,
+        "tid": 5307030332435976989
+    }
+,
+
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "B",
+        "ts": 23187523046,
+        "pid": 8,
+        "tid": 17678953261552873694
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "E",
+        "ts": 23187523829,
+        "pid": 8,
+        "tid": 17678953261552873694
+    }
+,
+    {
+        "name": "[Reshape]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187523845,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187523972,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187523980,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187524479,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187524486,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187524758,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187524765,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187525124,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187525131,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187525514,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187525519,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187525708,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187525714,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187526735,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187526741,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187527110,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187527115,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187527503,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187527510,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187528136,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187528142,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187528486,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187528491,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187529806,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187529811,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187530521,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187530528,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187531134,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187531140,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187532367,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187532372,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187532998,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187533003,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187535564,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187535569,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187535992,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187535997,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187536860,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187536865,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187537651,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187537657,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187537913,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187537917,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187538849,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187538853,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187539042,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187539047,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution,slice_axis,slice_axis]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187539434,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187539438,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187539631,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187539636,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Convolution]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187539800,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187539804,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[Reshape,broadcast_add,LeakyReLU]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187539991,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm,mean]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187539995,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[BatchNorm,mean]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540266,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540271,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540378,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[broadcast_add,LeakyReLU,Dropout]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540382,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[broadcast_add,LeakyReLU,Dropout]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540497,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540501,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[dot]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540594,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[broadcast_add]",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540599,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "[broadcast_add]",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540683,
+        "id": 5966053656255558671,
+        "pid": 6144713031048752221,
+        "tid": 5966053656255558671
+    }
+,
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187522882,
+        "id": 13709120782780355852,
+        "pid": 6144713031048752221,
+        "tid": 13709120782780355852
+    }
+,
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187522883,
+        "id": 13709120782780355852,
+        "pid": 6144713031048752221,
+        "tid": 13709120782780355852
+    }
+,
+    {
+        "name": "SyncCopyGPU2CPU",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540725,
+        "id": 5307030332435976989,
+        "pid": 6144713031048752221,
+        "tid": 5307030332435976989
+    }
+,
+    {
+        "name": "SyncCopyGPU2CPU",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540848,
+        "id": 5307030332435976989,
+        "pid": 6144713031048752221,
+        "tid": 5307030332435976989
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522688,
+        "args": { "MXNet C API Calls": 65 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522689,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXSymbolInferType",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522691,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXSymbolInferType",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522718,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522723,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522784,
+        "args": { "MXNet C API Calls": 66 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522785,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "Memory: cpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 23187522793,
+        "args": { "Memory: cpu/0": 36864 },
+        "pid": 6556576604985485106,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayCreateEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522786,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayCreateEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522793,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522793,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522808,
+        "args": { "MXNet C API Calls": 67 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522808,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522809,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522809,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522810,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522821,
+        "args": { "MXNet C API Calls": 68 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522821,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522821,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522821,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522822,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522838,
+        "args": { "MXNet C API Calls": 69 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522838,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522839,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522839,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522839,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522859,
+        "args": { "MXNet C API Calls": 70 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522859,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArraySyncCopyFromCPU",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522859,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArraySyncCopyFromCPU",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522887,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522888,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522909,
+        "args": { "MXNet C API Calls": 71 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522909,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522910,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522910,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522910,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522924,
+        "args": { "MXNet C API Calls": 72 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522924,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXSymbolInferType",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522924,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXSymbolInferType",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522941,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522941,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522980,
+        "args": { "MXNet C API Calls": 73 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522981,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522981,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522981,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522982,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522990,
+        "args": { "MXNet C API Calls": 74 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522991,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187522991,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187522991,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187522991,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523013,
+        "args": { "MXNet C API Calls": 75 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523013,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187523014,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXImperativeInvokeEx",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187523038,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523038,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523050,
+        "args": { "MXNet C API Calls": 76 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523050,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXExecutorForward",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187523051,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXExecutorForward",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187523109,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523110,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523140,
+        "args": { "MXNet C API Calls": 77 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523140,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187523141,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetShape",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187523141,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523142,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523148,
+        "args": { "MXNet C API Calls": 78 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523148,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187523149,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayGetDType",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187523149,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523149,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523174,
+        "args": { "MXNet C API Calls": 79 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187523174,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArraySyncCopyToCPU",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187523175,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArraySyncCopyToCPU",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187540910,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187540911,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Calls",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187540935,
+        "args": { "MXNet C API Calls": 80 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187540936,
+        "args": { "MXNet C API Concurrency": 1 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "Memory: cpu/0",
+        "cat": "Device Storage",
+        "ph": "C",
+        "ts": 23187540948,
+        "args": { "Memory: cpu/0": 0 },
+        "pid": 6556576604985485106,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540943,
+        "id": 18233402404053871355,
+        "pid": 6144713031048752221,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "DeleteVariable",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540948,
+        "id": 18233402404053871355,
+        "pid": 6144713031048752221,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayFree",
+        "cat": "MXNET_C_API",
+        "ph": "b",
+        "ts": 23187540937,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "MXNDArrayFree",
+        "cat": "MXNET_C_API",
+        "ph": "e",
+        "ts": 23187540951,
+        "id": 18233402404053871355,
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187523046,
+        "id": 17678953261552873694,
+        "pid": 6144713031048752221,
+        "tid": 17678953261552873694
+    }
+,
+    {
+        "name": "CopyCPU2GPU",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187523828,
+        "id": 17678953261552873694,
+        "pid": 6144713031048752221,
+        "tid": 17678953261552873694
+    }
+,
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "b",
+        "ts": 23187540895,
+        "id": 13709120782780355852,
+        "pid": 6144713031048752221,
+        "tid": 13709120782780355852
+    }
+,
+    {
+        "name": "WaitForVar",
+        "cat": "operator",
+        "ph": "e",
+        "ts": 23187540899,
+        "id": 13709120782780355852,
+        "pid": 6144713031048752221,
+        "tid": 13709120782780355852
+    }
+,
+    {
+        "name": "MXNet C API Concurrency",
+        "cat": "MXNET_C_API",
+        "ph": "C",
+        "ts": 23187540951,
+        "args": { "MXNet C API Concurrency": 0 },
+        "pid": 18294742712232874370,
+        "tid": 18233402404053871355
+    }
+
+
+    ],
+    "displayTimeUnit": "ms"
+}
